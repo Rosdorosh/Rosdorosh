@@ -1,7 +1,7 @@
 ### Hello 👋
 #
  My name is Ruslan, and I am the director of EkoDim Ukraine, a company with 8 years of experience in the installation of solar stations and other renewable energy sources. <br>The war and bombings of energy facilities in Ukraine by Russia prompted us to rethink and reform the energy network.<br>All of this pushed us to develop "Energy DAO," a blockchain-based project that brings together renewable energy producers, traditional energy suppliers, consumers, and distribution operators on a single platform.
-![1111](https://user-images.githubusercontent.com/101265863/221995152-e69ee144-793a-446e-a9e8-01df777010a4.png)
+![ен](https://user-images.githubusercontent.com/101265863/221995277-a50425c6-023c-4cfb-a3b7-fb83289346d2.png)
 
 
 ## 🌐 Socials:
