@@ -1,7 +1,6 @@
-### Hi there 👋
-
-# 💫 About Me:
-Hello. My name is Ruslan, and I am the director of EkoDim Ukraine, a company with 8 years of experience in the installation of solar stations and other renewable energy sources. <br>The war and bombings of energy facilities in Ukraine by Russia prompted us to rethink and reform the energy network.<br>All of this pushed us to develop "Energy DAO," a blockchain-based project that brings together renewable energy producers, traditional energy suppliers, consumers, and distribution operators on a single platform.
+### Hello 👋
+#
+ My name is Ruslan, and I am the director of EkoDim Ukraine, a company with 8 years of experience in the installation of solar stations and other renewable energy sources. <br>The war and bombings of energy facilities in Ukraine by Russia prompted us to rethink and reform the energy network.<br>All of this pushed us to develop "Energy DAO," a blockchain-based project that brings together renewable energy producers, traditional energy suppliers, consumers, and distribution operators on a single platform.
 
 
 ## 🌐 Socials:
@@ -12,7 +11,7 @@ Hello. My name is Ruslan, and I am the director of EkoDim Ukraine, a company wit
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rosdorosh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rosdorosh&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosdorosh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rosdorosh&icon=0&color=0)](https://visitcount.itsvg.in)
