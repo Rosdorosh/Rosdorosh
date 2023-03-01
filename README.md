@@ -5,6 +5,9 @@ My name is Ruslan, and I am the director of  EkoDim Ukraine, a company with 8 ye
 The war and bombings of energy facilities in Ukraine by Russia prompted us to rethink and reform the energy network.
 
 All of this pushed us to develop "EnergyDAO" a blockchain-based project that brings together renewable energy producers, traditional energy suppliers, consumers, and distribution operators on a single platform.
+
+video presentation: https://youtu.be/LoWVZmg4vlo
+
 ![ен](https://user-images.githubusercontent.com/101265863/221995277-a50425c6-023c-4cfb-a3b7-fb83289346d2.png)
 
 
@@ -17,7 +20,6 @@ All of this pushed us to develop "EnergyDAO" a blockchain-based project that bri
 ![](https://github-readme-stats.vercel.app/api?username=Rosdorosh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rosdorosh&theme=blue-green&hide_border=false)<br/>
 
-https://youtu.be/LoWVZmg4vlo
 ---
 [![](https://visitcount.itsvg.in/api?id=Rosdorosh&icon=0&color=0)](https://visitcount.itsvg.in)
 
