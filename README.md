@@ -1,6 +1,6 @@
 ### Hello 👋
 #
-My name is Ruslan, and I am the founder of EkoDim Ukraine, a company with 8 years of experience in the installation of solar stations and other renewable energy sources. 
+My name is Ros, and I am the founder of EkoDim Ukraine, a company with 8 years of experience in the installation of solar stations and other renewable energy sources. 
 
 The war and bombings of energy facilities in Ukraine by Russia prompted us to rethink and reform the energy network.
 
